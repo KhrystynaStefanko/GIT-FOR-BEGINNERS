@@ -5,4 +5,4 @@ if __name__ == "__main__":
     print("Division:", divide_nums(6,3))
     print("Subtraction:", subtract_nums(6,3))
     print("Multiplication:", multiply_nums((2,4)))
-    print("Power:", power((3,4)))
+    print("Power:", power((9,4)))
